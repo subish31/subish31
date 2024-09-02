@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Subish Kumar</h1>
 <h3 align="center">A passionate Fullstack developer</h3>
 
-- 🔭 I’m currently working on **E-commerce website**
+-🔭 I’m currently working on a E-commerce website using React.js.
+
+-👯 I’m looking to collaborate on front-end web development projects.
 
 - 🌱 I’m currently learning **Reactjs**
 
