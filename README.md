@@ -5,9 +5,9 @@
 
 -👯 I’m looking to collaborate on front-end web development projects.
 
-- 🌱 I’m currently learning **Reactjs**
+-🌱 I’m currently learning **Reactjs**
 
-- 📫 How to reach me **subishkumar31@gmail.com**
+-📫 How to reach me **subishkumar31@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
